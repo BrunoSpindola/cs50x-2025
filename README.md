@@ -1,4 +1,3 @@
-
 # CS50x 2025 — Harvard University
 
 Problem sets completed as part of Harvard's CS50x Introduction to Computer Science.
